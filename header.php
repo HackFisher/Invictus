@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="shortcut icon" href="assets/ico/favicon.png">
 
-    <title>Invictus Innovations - Decentralized Solutions</title>
+    <title>Invictus Innovations - 去中心化解决方案</title>
 
     <!-- Bootstrap core CSS -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
@@ -59,11 +59,11 @@
     </div>
     <div class="navbar-collapse collapse">
       <ul class="nav navbar-nav navbar-right">
-        <li class="active"><a href="index.php">Home</a></li>
-        <li><a href="dac.php">What is a DAC?</a></li>
+        <li class="active"><a href="index.php">主页</a></li>
+        <li><a href="dac.php">什么是 DAC?</a></li>
 
       <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Funding <i class="fa fa-angle-down"></i></a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">投资 <i class="fa fa-angle-down"></i></a>
           <ul class="dropdown-menu">
             <!--<li><a href="funding-overview.php">Overview</a></li>-->
             <li><a href="funding-protoshares.php">ProtoShares (PTS)</a></li>
@@ -72,18 +72,18 @@
       </li>
 
       <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Coins, Software, and DACs<i class="fa fa-angle-down"></i></a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">货币, 软件, 还有 DAC<i class="fa fa-angle-down"></i></a>
           <ul class="dropdown-menu">
-            <li><a href="#" style="color: grey; text-decoration:underline;">Software</a></li>
+            <li><a href="#" style="color: grey; text-decoration:underline;">软件</a></li>
             <li><a href="keyhotee.php">Keyhotee</a></li>
             <li><a href="#" style="color: grey; text-decoration:underline;">DACs</a></li>
             <li><a href="bitshares.php">Bitshares</a></li>
-            <li><a href="#" style="color: grey; text-decoration:underline;">3rd Party Coins</a></li>
+            <li><a href="#" style="color: grey; text-decoration:underline;">第三方虚拟币</a></li>
             <li><a href="memory-coin.php">Memorycoin 2.0</a></li>
           </ul>
       </li>
 
-      <li><a href="https://bitsharestalk.org/">Community</a></li>
+      <li><a href="https://bitsharestalk.org/">社区</a></li>
       <li><a href="#"><img src="assets/img/us.png" alt="US Flag"/></a></li>
       <li><a href="http://www.invictus-innovations.cn/ZH/"><img src="assets/img/cn.png" alt="US Flag"/></a></li>
     

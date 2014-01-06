@@ -16,7 +16,7 @@
 			
 				<div class="row">				
 					<div class="col-lg-12">					
-						<h3>What are Bitshares?</h3>					
+						<h3>什么是比特股?</h3>					
 							<p style="text-align: justify;">								
 								BitShares is a revolutionary new bank and exchange that could rival the value of the largest banks in the world such as JP Morgan and Bank of America in just a few years. How could this new upstart grow so quickly? BitShares offers a bank account that earns 5% interest where funds can be transferred in minutes anywhere in the world with more privacy and security than a Swiss bank account.  Your account can never be frozen, your funds cannot be seized, and the bank can never face collapse due to loan defaults or fraud.  All of this is made possible without requiring any employees, lawyers, regulatory compliance, vaults, buildings, and other infrastructure required by traditional banks.  
 							</p>
@@ -30,12 +30,12 @@
 								If you would like to get in on the ground floor of such a revolutionary decentralized business you can get involved by contributing your time, money, and services as part of the growing movement at <a href="http://bitsharestalk.org">bitsharestalk.org</a>. See the resources below for more information.
 							</p>
 							
-						<h3>Resources</h3>	
+						<h3>资料</h3>	
 							<p>	
 								<ul style="list-style-type: circle;">
-									<li><a href="https://bitsharestalk.org/index.php?board=3.0">Bitshares discussion board - Bitsharetalk.org forum</a></li>
-									<li><a href="https://github.com/InvictusInnovations/BitShares">Bitshares Github - Source and development information</a></li>
-									<li><a href="https://www.youtube.com/watch?v=5BV55IrZi7g&html5=1&hd=1">Bitshares Introductory Video</a></li>
+									<li><a href="https://bitsharestalk.org/index.php?board=3.0">比特股讨论版 - Bitsharetalk.org 论坛</a></li>
+									<li><a href="https://github.com/InvictusInnovations/BitShares">Bitshares Github - 源代码和开发信息</a></li>
+									<li><a href="https://www.youtube.com/watch?v=5BV55IrZi7g&html5=1&hd=1">比特股入门视频</a></li>
 								</ul>
 							</p>	
 					</div>				

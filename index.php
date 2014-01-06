@@ -6,7 +6,7 @@
     	<div class="container">
 			<div class="row">
 				<div class="col-lg-8 col-lg-offset-2 centered">
-					<h1 class="slideUp">Identity. Email. Checkbook.</h1>
+					<h1 class="slideUp">身份. 电子邮件. 支票簿.</h1>
 					<a href="http://invictus.io/keyhotee.php">
 						<img class="img-responsive" src="assets/img/browser.png" alt="">
 					</a>
@@ -22,7 +22,7 @@
     	<div class="row mt">
     		<div class="col-lg-4 centered">
     			<i class="fa fa-paperclip"></i>
-    			<h4>Research Driven</h4>
+    			<h4>研究驱动</h4>
     			<p>
               No copy, paste, release here. We already have developed <a href="http://static.squarespace.com/static/51fb043ee4b0608e46483caf/t/5261691de4b079be91734445/1382115613469/MomentumProofOfWork.pdf">a new mining algorithm</a>,
               and are working on <a href="https://static.squarespace.com/static/51fb043ee4b0608e46483caf/t/52a1214de4b055489470ed4b/1386291533371/TransactionsAsProofOfStake10.pdf">a new proof of stake system</a>.
@@ -30,16 +30,16 @@
     		</div>
     		<div class="col-lg-4 centered">
     			<i class="fa fa-eye"></i>
-    			<h4>Transparency</h4>
+    			<h4>透明</h4>
     			<p>
-          			With radical transparency, <a href="https://github.com/InvictusInnovations/ProtoShares">open source development</a>, ready finance, collaborators and a team to make it all happen. 
+          			透明到底, <a href="https://github.com/InvictusInnovations/ProtoShares">开源</a>, ready finance, collaborators and a team to make it all happen. 
           		</p>
     		</div>
     		<div class="col-lg-4 centered">
     			<i class="fa fa-user"></i>
     			<h4>Full-Time Devs and Backing</h4>
-    			<p>We are software company with 10+ full time employees. We are backed by a 2,000+ member community and
-    			   <a href="https://bitsharestalk.org/index.php?board=38.0">ample funding</a>. </p>
+    			<p>我们是一家有着10多名全职员工的软件公司. 我们背后有一个超过2000+成员的社区和
+    			   <a href="https://bitsharestalk.org/index.php?board=38.0">充足的资金</a>支持. </p>
     		</div>    	
 
     	
@@ -65,7 +65,7 @@
 	<div class="container">
 		<div class="row mt centered ">
 			<div class="col-lg-6 col-lg-offset-3">
-				<h3>Funding Models</h3>
+				<h3>筹资模式</h3>
 				<hr>
 				Invictus uses a two-pronged decentralized funding model. This provides equal opportunity for
 				miners, traders, and investors.</a> 

@@ -3,7 +3,7 @@
 	<div id="cta-bar">
 		<div class="container">
 			<div class="row centered">
-				<a href="dac.php"><h4>Are You Ready For The Next Step?</h4></a>
+				<a href="dac.php"><h4>你准备好进行到下一步骤吗?</h4></a>
 			</div>
 		</div><!-- /container -->
 	</div><!-- /cta-bar -->
@@ -26,7 +26,7 @@
 				
 				<!-- LATEST POSTS -->
 				<div class="col-lg-3">
-					<h4>Exchanges</h4>
+					<h4>交易所</h4>
 					<p>
 						<i class="fa fa-angle-right"></i> <a href="https://bter.com/trade/pts_cny">Bter - PTS/CNY</a><br/>
 						<i class="fa fa-angle-right"></i> <a href="https://bter.com/trade/pts_btc">Bter - PTS/BTC</a><br/>
@@ -38,7 +38,7 @@
 				
 				<!-- LATEST POSTS -->
 				<div class="col-lg-3">
-					<h4>Mining</h4>
+					<h4>挖矿</h4>
 					<p>
 						<i class="fa fa-angle-right"></i> <a href="http://pts.rpool.net">http://pts.rpool.net</a> -  3% fee<br/>
 						<i class="fa fa-angle-right"></i> <a href="http://ptspool.com/">http://ptspool.com/</a> -  4% fee <br/>
@@ -49,10 +49,10 @@
 				
 				<!-- LATEST POSTS -->
 				<div class="col-lg-3">
-					<h4>Info</h4>
+					<h4>信息</h4>
 					<p>
-						<i class="fa fa-angle-right"></i> <a href="https://bitsharestalk.org/index.php?topic=1631.0">Angel Shares &amp; BitShares Allocation</a><br/>
-						<i class="fa fa-angle-right"></i> <a href="http://bitsharestalk.org/donate.html">Donate to BitShares Forum</a><br/>
+						<i class="fa fa-angle-right"></i> <a href="https://bitsharestalk.org/index.php?topic=1631.0">Angel Shares &amp; BitShares 分配</a><br/>
+						<i class="fa fa-angle-right"></i> <a href="http://bitsharestalk.org/donate.html">BitShares论坛捐赠</a><br/>
 						<i class="fa fa-angle-right"></i> <a href="https://github.com/super3/invictus">Code for Invictus.io</a><br/>
 						<i class="fa fa-angle-right"></i> <a href="https://github.com/super3/invictus/issues?milestone=1&ampl;state=open">Report Problems with Invictus.io</a>
 					</p>

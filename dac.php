@@ -6,7 +6,7 @@
 		<div class="container mts">
 			<div class="row mt centered">
 				<div class="col-lg-8 col-lg-offset-2">
-					<h1>What is a DAC?</h1>
+					<h1>什么是 DAC?</h1>
 					<hr>
 					<h4>Emerging complexity as a new foundation for corporations </h4>
 					
@@ -27,10 +27,10 @@
 				<a name="Top"></a>
 				<div style="text-align: center;">
 					<h3>
-						“Invictus makes unmanned companies like the aerospace industry makes unmanned vehicles. We release these autonomous entities into the wild and then do business with them like any familiar brick and mortar and flesh and blood (BMFB) company.” 
+						“Invictus让那些无人公司就像航天工业制造无人机一样。我们将制造的自治系统然后将他们发布到这个世界，然后与他们交易就像你和那些实体公司交易一样。” 
 					</h3>
 						<br><br>
-						— Stan Larimer, President 
+						— Stan Larimer，总裁
 					<p>	
 				</div>
 				
@@ -73,25 +73,25 @@
 				
 					Distributed Autonomous Corporations have many advantages.  DACs are...<br><br>
 					<ul style="list-style-type: circle;">
-						<li>Corporations – They are, and of a right ought to be, free and independent persons.</li>
+						<li>它们是自治的 –  一旦启动上路，它们就不在需要（或听从）它们的创造者</li>
 						<li>Autonomous – once up to speed; they no longer need (or heed) their creators.</li>
-						<li>Distributed – there are no central points of control or failure that can be attacked.</li>
-						<li>Transparent – their books and business rules are auditable by all as all transactions are visible.</li>
-						<li>Confidential – customer information is securely (and incorruptibly) protected.</li>
-						<li>Trustworthy – because no interaction with them depends on trust.</li>
-						<li>Fiduciaries – acting solely in their customers’ and shareholders’ interests.</li>
-						<li>Self-regulating – they obey the rules set for them like, well, robots.</li>
-						<li>Incorruptible – no one can exercise seductive or coercive influence over them.</li>
-						<li>Sovereign – over their digital resources.  They don’t need governments to exist.</li>
+						<li>它们是分布式的 – 没有中心控制点或者可被攻击的弱点</li>
+						<li>它们是透明的 – 账簿和商业规则可被所有人审查</li>
+						<li>它们是保密的 – 客户信息被安全地（且不可能被侵入）施加保护</li>
+						<li>它们是可信任的 – 因为与它们的合作不依赖于信任</li>
+						<li>它们是受托人 – 唯一地忠实于客户和股东的利益</li>
+						<li>它们是自我监管的 – 如同机器人，它们遵守自己的规则</li>
+						<li>它们是不可侵蚀的 – 没有人能威逼利诱它们</li>
+						<li>它们是独立自主的 – 在它们的数字环境中，它们不需要受到监管</li>
 					</ul>
 
 					Metaphorically, DACs work very much like familiar brick and mortar corporations.<br><br>
 					<ul style="list-style-type: circle;">
-						<li>They can be non-profit, for-profit or both at the same time!</li>
-						<li>You can access their products and services on-line.</li>
-						<li>You can buy and sell their stocks and bonds.</li>
-						<li>Shareholders can earn dividends; bondholders can earn interest.</li>
-						<li>Behaviors, rules and by-laws can only change by stakeholder majorities.</li>
+						<li>它们可以是非营利性的，也可以是以营利为目的，或者同时兼而有之！</li>
+						<li>你可以在网上访问他们的产品和服务。</li>
+						<li>你可以购买和出售他们的股票和债券。</li>
+						<li>股东可以赚取股息，债券持有人可以赚取利息。</li>
+						<li>行为，规则和附则都只能通过占据多数的利益相关者来改变。</li>
 					</ul>							
 
 					

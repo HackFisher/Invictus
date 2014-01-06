@@ -6,9 +6,9 @@
 		<div class="container mts">
 			<div class="row mt centered">
 				<div class="col-lg-8 col-lg-offset-2">
-					<h1>The Team</h1>
+					<h1>团队</h1>
 					<hr>
-					<h4>The Team behind Invictus Innovations</h4>
+					<h4>Invictus Innovations 团队</h4>
 				</div>
 
 			</div><!-- /row -->
@@ -21,7 +21,7 @@
 	<div class="container">
 		<div class="row mt centered ">
 			<div class="col-lg-4 col-lg-offset-4">
-				<h3>Team Members</h3>
+				<h3>团队成员</h3>
 				<hr>
 			</div>
 		</div><!-- /row -->
